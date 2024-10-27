@@ -8,7 +8,7 @@
 
 ### Soal nomor 1:
 
-![image](https://github.com/user-attachments/assets/0045689e-a04b-428d-9f5d-58f1943938e1)
+![image](https://github.com/user-attachments/assets/d08e860b-988f-47aa-9d34-8546a246e170)
 
 ### Soal nomor 2:
 
