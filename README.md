@@ -1,4 +1,4 @@
-# Rafli-Syahputra-Pane-5025221038-Tugas-1-Go-PBKK
+Rafli Syahputra Pane - 5025221038
 
 ## Soal
 1. Program GO yang apabila diberi input 42 maka outputnya "Hello Universe!". Jika input selain 42, maka print angka yang diinputkan
